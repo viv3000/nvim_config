@@ -1,0 +1,9 @@
+vim.opt.number = true
+vim.opt.mouse = 'a'
+vim.opt.hlsearch = false
+vim.opt.wrap = true
+vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
+vim.opt.expandtab = false
+vim.opt.listchars = "tab:▸\\ ,eol:¬"
+vim.opt.list = true
